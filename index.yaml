@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  bookservice:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-08-15T23:21:34.5144008+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 9c7415c5f94e69898b183e4f8ae9ed8634f9181c58ba3ed0f219ec039120ff09
+    name: bookservice
+    type: application
+    urls:
+    - https://github.com/johnchan2016/BookService.git/bookservice-1.0.0.tgz
+    version: 1.0.0
+generated: "2020-08-15T23:21:34.5124008+08:00"
